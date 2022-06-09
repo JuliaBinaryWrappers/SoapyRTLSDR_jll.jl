@@ -1,6 +1,6 @@
 name = "SoapyRTLSDR_jll"
 uuid = "7bed6c1d-f2db-586c-9908-488058499e34"
-version = "0.3.2+0"
+version = "0.3.3+0"
 
 [deps]
 librtlsdr_jll = "d1c10d9e-0af6-511b-a44d-62fc8e59b084"
