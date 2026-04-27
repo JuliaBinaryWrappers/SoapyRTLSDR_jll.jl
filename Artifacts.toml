@@ -1,244 +1,134 @@
 [[SoapyRTLSDR]]
 arch = "aarch64"
-git-tree-sha1 = "fbd4459f6e5c93535a307428797563aefa497e16"
+git-tree-sha1 = "ddb30211b6f413948db5e940490abf8e020adf17"
 os = "macos"
 
     [[SoapyRTLSDR.download]]
-    sha256 = "dbaf29783096e9045d20a8049280d22aaee386a28ea8a935d54694b008fe14bc"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.aarch64-apple-darwin.tar.gz"
-[[SoapyRTLSDR]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "d759c47b632ff18fdd7f92e50da9a345254482bc"
-libc = "glibc"
-os = "linux"
-
-    [[SoapyRTLSDR.download]]
-    sha256 = "a7eb03ebdec0a1dc32b8a727f8e0ba270d7a51642cd04ce10938fc21dc67cdba"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "bf32b3e48ebb2b6e8ad00b6b3e8b0c9146f9598784d9fc8a728d0b0e2bc2962b"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+1/SoapyRTLSDR.v0.3.3.aarch64-apple-darwin.tar.gz"
 [[SoapyRTLSDR]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4c563f623bfbb59820f81c21d3a4b87aad0bacc9"
+git-tree-sha1 = "fef6452ccdd14830366806c5d9c680d5a99a10b4"
 libc = "glibc"
 os = "linux"
 
     [[SoapyRTLSDR.download]]
-    sha256 = "0d6e8d483f5a504c4247675e296eda8f38737c32b06f0cd5217d887fde64b9d9"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "32d5dfec5e7ca4bfee245084a554c38dcb04627a592f4a7b376ab2653ba10680"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+1/SoapyRTLSDR.v0.3.3.aarch64-linux-gnu-cxx11.tar.gz"
 [[SoapyRTLSDR]]
 arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "20d789c5fcd01b20e733a841de69cf13bb276123"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ac4d582f9f764d9421219d1df6b75d3728346c5d"
 libc = "musl"
 os = "linux"
 
     [[SoapyRTLSDR.download]]
-    sha256 = "7024e4488602e99cca63f0277f3a0c75e0d124a07bf6385f94706c70390f6ed9"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.aarch64-linux-musl-cxx03.tar.gz"
-[[SoapyRTLSDR]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "300bb85658a257a333167cd8bd83bb710066154a"
-libc = "musl"
-os = "linux"
-
-    [[SoapyRTLSDR.download]]
-    sha256 = "71ccaa810bb17a74d866dfde9e65f66ab5654c6fa59902a97b9593abc934137d"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.aarch64-linux-musl-cxx11.tar.gz"
-[[SoapyRTLSDR]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ef936ded2309b33f25a96d6f7886f1ee50253946"
-libc = "glibc"
-os = "linux"
-
-    [[SoapyRTLSDR.download]]
-    sha256 = "dd4f8f6d398ac1d106706007b16480b57762726531948683839406630e8fc62b"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "77c19970e3df4b5014210eee0ef848115920bf0a603d925280964a23cf76d1ab"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+1/SoapyRTLSDR.v0.3.3.aarch64-linux-musl-cxx11.tar.gz"
 [[SoapyRTLSDR]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1043cffba99b1b6569b170c3cb3c048327edd7ff"
+git-tree-sha1 = "9083f3f0d5d9d4784cbd8ea8d64c6d0487589b8a"
 libc = "glibc"
 os = "linux"
 
     [[SoapyRTLSDR.download]]
-    sha256 = "4ade7f6f53834a18f44fd6b4147b974c84558f3e4c3af3bad16beb7ce335303e"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[SoapyRTLSDR]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "b15cae1f76e9cc260a19cbf0a80a8193d98fa6a9"
-libc = "musl"
-os = "linux"
-
-    [[SoapyRTLSDR.download]]
-    sha256 = "7196d701cbaa7a619fdf236ef0b75473641fcbde8beff20a1b1aa45137aba313"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "1490890ffc570f81ea7f6d351aaf8d2adf09a7795188e933995ddafbfe7cafee"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+1/SoapyRTLSDR.v0.3.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[SoapyRTLSDR]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d3808dcdce9a54818ef0aefa40a8ff6abc920cf4"
+git-tree-sha1 = "0f794f4a8ca597ee80f6644392318efbccd5dfe4"
 libc = "musl"
 os = "linux"
 
     [[SoapyRTLSDR.download]]
-    sha256 = "266116346e86577061ca0b1d58e3e6f810f91d2ce8e0079fb6badcf4000c4064"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "76180b44ab5657f9afba2d88df2c8b4cfc4ee5754f5a8351c143ded8320c6fd5"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+1/SoapyRTLSDR.v0.3.3.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[SoapyRTLSDR]]
 arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "b80dac4eb1d79b3b7a898786e981eab9f21ad9e4"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "16480ed6d9b3531b762fe3adf2a4270c94af89b2"
 libc = "glibc"
 os = "linux"
 
     [[SoapyRTLSDR.download]]
-    sha256 = "08a8321b64cd95f7b8aa25591bd744c2218b1b23c577657b5872e1ca975d57f1"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "e878adfbf300124dd6968752f7069524d0635cb1bb1337bb4f30ea95f5aa1352"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+1/SoapyRTLSDR.v0.3.3.i686-linux-gnu-cxx11.tar.gz"
 [[SoapyRTLSDR]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bf0591baa6e79c2efe7941dce2090b5535662189"
-libc = "glibc"
-os = "linux"
-
-    [[SoapyRTLSDR.download]]
-    sha256 = "acc48352f0f381eb2ca9517b5a31a5d909f00100474ff1efd8050424ff8cd88c"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.i686-linux-gnu-cxx11.tar.gz"
-[[SoapyRTLSDR]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "89997fea99151fdea0e94207197a8106e284e115"
+git-tree-sha1 = "d3ba5c9aa7e58fde989ae95850a90072fa5dd21b"
 libc = "musl"
 os = "linux"
 
     [[SoapyRTLSDR.download]]
-    sha256 = "29ab063f60a9ce10a0d609cdb042efaefd46fa08cbd5ec7234d9ee0eb0e864b4"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "b080a43b9a36bc77477c368799c8724ff36a8dc9eeeb4aa21763c4ad10030c0c"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+1/SoapyRTLSDR.v0.3.3.i686-linux-musl-cxx11.tar.gz"
 [[SoapyRTLSDR]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c0a8566d69392dc7b3029f5ba1f31b57393ff833"
-libc = "musl"
-os = "linux"
-
-    [[SoapyRTLSDR.download]]
-    sha256 = "66b543e57bea3697e6b6984ce3f8b37970765c11513a65094ea083dec3491915"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.i686-linux-musl-cxx11.tar.gz"
-[[SoapyRTLSDR]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "90178e934896b129e8e8be2fab9767242d445df8"
+git-tree-sha1 = "c96a66d0ce230a2240f617f994844e0d30374628"
 os = "windows"
 
     [[SoapyRTLSDR.download]]
-    sha256 = "1452184d242411be877c5574e7f44e26b350f8b11a60790e8946576c19d45607"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.i686-w64-mingw32-cxx03.tar.gz"
-[[SoapyRTLSDR]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8dba3a0ad1945a356cb48d1918f6c563a6b1630f"
-os = "windows"
-
-    [[SoapyRTLSDR.download]]
-    sha256 = "ab8d93bec381b8f321c8c844410386ca658ece4d6456a225ee847dcddc64c521"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "d6f9ef15f9ed74be788f65665fd02665b291a48449101781f646ec45e0112fbc"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+1/SoapyRTLSDR.v0.3.3.i686-w64-mingw32-cxx11.tar.gz"
 [[SoapyRTLSDR]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "4d573a07f864bd222d3e22170597794e258b9ed5"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9beb633f4436484e07dd3362989b0998e79ccf67"
 libc = "glibc"
 os = "linux"
 
     [[SoapyRTLSDR.download]]
-    sha256 = "3be892756fe5e2631b6c56433e870a07afb5d93b85382a4ab8b3bf0651092d82"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.powerpc64le-linux-gnu-cxx03.tar.gz"
-[[SoapyRTLSDR]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c737e2926fd0bec4edf7c844e57045fbb7f9312e"
-libc = "glibc"
-os = "linux"
-
-    [[SoapyRTLSDR.download]]
-    sha256 = "57f600b15a581c24553a952c219433fa25c8e466b50643deff96b1e5df121c02"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "81400a4a297b530feb396b6fbea09c030e505816f27ce4e6619990775a6bc653"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+1/SoapyRTLSDR.v0.3.3.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[SoapyRTLSDR]]
 arch = "x86_64"
-git-tree-sha1 = "c3c90c2bff898f0d6da553b3bffcad2503585769"
+git-tree-sha1 = "05097e38dccb85d2153bbf4b7759c16d6b1a5753"
 os = "macos"
 
     [[SoapyRTLSDR.download]]
-    sha256 = "88d3152b24576b4817f980f32a218f0b4eeada8bc1008f51c282b6e25e1eab60"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "3f2f210eccc41ecd79accab621c451a6b9e47383d96649878dca38a7e490cecf"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+1/SoapyRTLSDR.v0.3.3.x86_64-apple-darwin.tar.gz"
 [[SoapyRTLSDR]]
 arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1f58e67e83351822ca7037158f8a0fafeb5d7f6a"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0591469b767e907e41765d5cd7fade84b9da00b6"
 libc = "glibc"
 os = "linux"
 
     [[SoapyRTLSDR.download]]
-    sha256 = "340b45be20bc5558a4f1e0cd90dcc9b14b419f4032d74aa86b8fda6f9fcd8d7c"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "aea9f167209b7cca1a54f26725339b5003824f8c3b00a1abcc5e43a1c63f3417"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+1/SoapyRTLSDR.v0.3.3.x86_64-linux-gnu-cxx11.tar.gz"
 [[SoapyRTLSDR]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2b20d811a75169602c250fdfba2280717e48d12a"
-libc = "glibc"
-os = "linux"
-
-    [[SoapyRTLSDR.download]]
-    sha256 = "a3692428fa20ca55b0db9d236ecf52a5125822b589ce459d0a4500240dad47ad"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.x86_64-linux-gnu-cxx11.tar.gz"
-[[SoapyRTLSDR]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "71ce5c0c4e1acaafff054f3ab5050a6efae38f0c"
+git-tree-sha1 = "c7b56113d92d89159c2d41dd3839c7b049fe6494"
 libc = "musl"
 os = "linux"
 
     [[SoapyRTLSDR.download]]
-    sha256 = "f54648d53f81d119ec3f85c8d4aa2a4fc3380ccbb529ad28e4b6b7b9443a022d"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "7ae9a06d36123d4cdb5bcf3e03a2f129cba3627826e990adb7a74a5190cd8681"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+1/SoapyRTLSDR.v0.3.3.x86_64-linux-musl-cxx11.tar.gz"
 [[SoapyRTLSDR]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "5f68c52c0fa274ea8fc0cbbb659e22af9170ffa0"
-libc = "musl"
-os = "linux"
-
-    [[SoapyRTLSDR.download]]
-    sha256 = "1736b340a79f6c70fe5cc92f2b7d1a27219d3b8df01b3c3b7d58ba3d319a9782"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.x86_64-linux-musl-cxx11.tar.gz"
-[[SoapyRTLSDR]]
-arch = "x86_64"
-git-tree-sha1 = "7fe16c4ad5117fee78359c43e85d9e3e4cd82950"
+git-tree-sha1 = "8ad7891793da0ed1e6774962d57cf2e42772a4c1"
 os = "freebsd"
 
     [[SoapyRTLSDR.download]]
-    sha256 = "7852feaf6301c15baef40efdeba549908f2eeee2d927dd8dfe811398819609c4"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.x86_64-unknown-freebsd.tar.gz"
-[[SoapyRTLSDR]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "62971983a97b2e82de9f236d33c383c2fc7c2b4b"
-os = "windows"
-
-    [[SoapyRTLSDR.download]]
-    sha256 = "8914af89294c04c5efe1a2240148c5c6872316c2c3894adc918336c0c7215624"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "2121953fb69137dd9d9433d0266c1ff5fed2e52668fd893333a0524928bebc87"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+1/SoapyRTLSDR.v0.3.3.x86_64-unknown-freebsd.tar.gz"
 [[SoapyRTLSDR]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "54ae840e80e667c8107bebf5072db442354a8d68"
+git-tree-sha1 = "5910adea19ee9b7c8d282f0855c402e4ae007e06"
 os = "windows"
 
     [[SoapyRTLSDR.download]]
-    sha256 = "a045d47ffe4e334910206727eba4c4aeb2a4bce5f284d050287837bd7576873d"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+0/SoapyRTLSDR.v0.3.3.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "34ccf7f75684d921363afde3e2747e19022eb28a2181db3c47335435988037ab"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyRTLSDR_jll.jl/releases/download/SoapyRTLSDR-v0.3.3+1/SoapyRTLSDR.v0.3.3.x86_64-w64-mingw32-cxx11.tar.gz"
